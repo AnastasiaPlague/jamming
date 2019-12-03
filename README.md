@@ -1,3 +1,7 @@
+## Search songs and save it to your playlist to the Spotify account
+
+Used React and Spotify API to build an app that helps users search for songs, add them to their playlist, name the playlist and save to their Spotify accounts. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
